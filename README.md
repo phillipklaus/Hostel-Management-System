@@ -1,1 +1,1 @@
-# Hostel-Management-System
+ Hostel-Management-System designed using Adobe Xd to showcase how a student can use the system to register and also access other services such as booking a room, addressing issues and grievances through sending complaints  and giving feedback on the overall experince in the hostel.
